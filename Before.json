@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "csrftoken",
+    "Value": "JPMzc7B7ZnvCBExOwPFJqut1sEN3hZfU",
+    "Domain": ".instagram.com",
+    "Expires": "2/15/2023, 12:49:45 PM",
+    "Secure": true,
+    "Size (kb)": 0.25,
+    "Action": ""
+  },
+  {
+    "Name": "ds_user_id",
+    "Value": 1463108901,
+    "Domain": ".instagram.com",
+    "Expires": "5/17/2022, 12:49:45 PM",
+    "Secure": true,
+    "Size (kb)": 0.078,
+    "Action": ""
+  },
+  {
+    "Name": "fbm_124024574287414",
+    "Value": "base_domain=.instagram.com",
+    "Domain": ".instagram.com",
+    "Expires": "2/16/2023, 12:49:00 PM",
+    "Secure": true,
+    "Size (kb)": 0.203,
+    "Action": ""
+  },
+  {
+    "Name": "fbsr_124024574287414",
+    "Value": "I6otIF3GVLoYaPoeJWdm6BaJGXVEZLD7RSs-9s1k0kQ.eyJ1c2VyX2lkIjoiMTAwMDA0NTU4Mjc4NTQ3IiwiY29kZSI6IkFRRFdzdWVjTlY0ZHE1N2o2S1U3RmFsemVjdTctV0dwNlBmaTdYVmxRN2VtS0htMHNaV3pqdUhpNng3TUdUX2luRm9KTExobkxJQzlUN2FzbFdKQmQ0YTdMaG9NT0F4X1pHMXR1ZUhwbG1uYlhIZU1hYW5nR1NmRVA1U3d2VmZXaWVRS3JTLXF4RGxGSFNoY3RodGpsaHRiUy0zbEhiRURzYkVueFozQnpuY0pzME95Wk5FTTFBUnBnUkpjUWk5R2NiTWFXMnYwenVVa2MzUWpMakRlUjZVa2NSbmttc1pHendrMnFyN0pvTzhoaUttZ3dySGJ0cVc3SGY0NXowajdFTEpuYmJDYlU1ajdJYWtvdDVyd0lOWmVrWUk4Tm1rQ19HMjRHLUFVWEV6cVBjdzF5SkJUM0Zubk1oYlpNYTdaRElweENlZ3VORG1lR21Kal9lc1pOS3ZiIiwib2F1dGhfdG9rZW4iOiJFQUFCd3pMaXhuallCQUlPVFZmS0FrT2RrMHRmeko5ZXFscEJSTmFPQzI1c0NaQ0xUY0xYcGZ4Y3Zra3EyWkJVZ1lsSzE2Q3hXdVJwbE5GZGlGaDVxWkNNZ1FSd2lDNU9TQ3l0MVhmWXhIcWtaQW10ZGkwZlZ4WkM0TzBmZlZVcnBrZExwVnQ1QXp4T0FKWkJRZ2JrYmt5ZzVpVzI2dVpBeU43dXRhWkMyR01JME1xZ1NYTmtrTFlyViIsImFsZ29yaXRobSI6IkhNQUMtU0hBMjU2IiwiaXNzdWVkX2F0IjoxNjQ0OTkwNTQxfQ",
+    "Domain": ".instagram.com",
+    "Expires": "Session",
+    "Secure": true,
+    "Size (kb)": 6.953,
+    "Action": ""
+  },
+  {
+    "Name": "ig_did",
+    "Value": "3F6B2E4C-3BC3-42D6-8BB0-DB5D48A84198",
+    "Domain": ".instagram.com",
+    "Expires": "2/14/2024, 11:55:44 AM",
+    "Secure": true,
+    "Size (kb)": 0.281,
+    "Action": ""
+  },
+  {
+    "Name": "ig_nrcb",
+    "Value": 1,
+    "Domain": ".instagram.com",
+    "Expires": "2/4/2023, 1:31:32 AM",
+    "Secure": true,
+    "Size (kb)": 0.008,
+    "Action": ""
+  },
+  {
+    "Name": "mid",
+    "Value": "YfwfggALAAGr0ojkfkMzIfVsUa9q",
+    "Domain": ".instagram.com",
+    "Expires": "2/4/2024, 1:31:32 AM",
+    "Secure": true,
+    "Size (kb)": 0.219,
+    "Action": ""
+  },
+  {
+    "Name": "rur",
+    "Value": "'EAG\\0541463108901\\0541676526586:01f73b7b8751eadc9c0f3259c311b2b8b7ba38d6131a8b06e2793ba37221a71507bae922'",
+    "Domain": ".instagram.com",
+    "Expires": "Session",
+    "Secure": true,
+    "Size (kb)": 0.828,
+    "Action": ""
+  },
+  {
+    "Name": "sessionid",
+    "Value": "1463108901:nb1wbzjPm59SHW:9",
+    "Domain": ".instagram.com",
+    "Expires": "2/15/2023, 2:09:17 PM",
+    "Secure": true,
+    "Size (kb)": 0.242,
+    "Action": ""
+  },
+  {
+    "Name": "shbid",
+    "Value": "'2534\\0541463108901\\0541676279177:01f7a4d904f7b0583b5d861f0dbcfd25b223a862e511b2403fa13e4c91a8a662ff41c7c6'",
+    "Domain": ".instagram.com",
+    "Expires": "2/20/2022, 4:06:18 PM",
+    "Secure": true,
+    "Size (kb)": 0.836,
+    "Action": ""
+  },
+  {
+    "Name": "shbts",
+    "Value": "'1644743177\\0541463108901\\0541676279177:01f7d257d83734410026ebb6608cdc4d2b43f581258283a5241bbd7aede615627a9d78fd'",
+    "Domain": ".instagram.com",
+    "Expires": "2/20/2022, 4:06:18 PM",
+    "Secure": true,
+    "Size (kb)": 0.883,
+    "Action": ""
+  }
+]
